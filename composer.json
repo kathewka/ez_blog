@@ -1,0 +1,14 @@
+{
+    "name": "yonemura/ez_blog",
+    "autoload": {
+        "psr-4": {
+           "UnitTest\\Sample\\": "src"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "phake/phake": "2.*"
+    }
+}
